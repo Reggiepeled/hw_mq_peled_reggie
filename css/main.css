@@ -7,3 +7,9 @@ body {
         background-color: #ffb6c1;
     }
 }
+
+@media (min-width: 999px) {
+    body {
+        background-color: #7b68ee;
+    }
+}
